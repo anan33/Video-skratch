@@ -362,7 +362,7 @@ cat > "app/src/main/res/values/strings.xml" <<'END_OF_FILE_XYZ'
     <string name="btn_replay">إعادة القصة</string>
     <string name="btn_menu">القائمة</string>
     <string name="about_title">عن التطبيق</string>
-    <string name="about_text">إعداد الطالب: ........\nإشراف المعلم: ........\nالمدرسة: ........\nالعام الدراسي: ........</string>
+    <string name="about_text">إعداد وبرمجة الطالب: محمد عاصم الناصر.\nإشراف المعلم: عبدالله ناصر الناصر.\nالمدرسة: ابتدائية الأحنف بن قيس.\nالعام الدراسي: ١٤٤٨ .</string>
     <string name="btn_close">إغلاق</string>
 </resources>
 
